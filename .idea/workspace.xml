@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7d83a04-6824-435b-bde4-ca2870895fea" name="Changes" comment="The score appium kotlin automation.">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/Thescore.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/pageobjects/FavoritesLastPage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/pageobjects/FavoritesPage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/pageobjects/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/pageobjects/NFLTeamPage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/pageobjects/PopularInYourAreaPage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/pageobjects/TheScoreMainPage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/REC-20240328040135.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/kotlin/LoginPage.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2e9GFEI4Qlyxt6BBzwwDFXA6kmm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.HomePageTests.executor": "Run",
+    "JUnit.MultiplicationTest.Simple multiplication give correct result.executor": "Debug",
+    "JUnit.MultiplicationTest.executor": "Run",
+    "JUnit.TheScoreTests.executor": "Run",
+    "JUnit.Unnamed.executor": "Run",
+    "Maven.AppiumMavenKotlinTest [clean,install].executor": "Run",
+    "Maven.AppiumMavenKotlinTest [clean].executor": "Run",
+    "Maven.AppiumMavenKotlinTest [install].executor": "Run",
+    "Maven.AppiumMavenKotlinTest [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yaseminyarnell/intellijProjects/AppiumMavenKotlinTest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/helpers" />
+      <recent name="$PROJECT_DIR$/src/main/Helpers" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="pageObjects" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TheScoreTests">
+    <configuration name="MultiplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AppiumMavenKotlinTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheScoreTests" type="JUnit" factoryName="JUnit">
+      <module name="AppiumMavenKotlinTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TheScoreTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TheScoreTests" />
+      <item itemvalue="JUnit.MultiplicationTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MultiplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7d83a04-6824-435b-bde4-ca2870895fea" name="Changes" comment="" />
+      <created>1711309274983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711309274983</updated>
+      <workItem from="1711309276063" duration="376000" />
+      <workItem from="1711309657808" duration="39000" />
+      <workItem from="1711309701337" duration="2900000" />
+      <workItem from="1711317549244" duration="598000" />
+      <workItem from="1711321816854" duration="3756000" />
+      <workItem from="1711326637353" duration="1232000" />
+      <workItem from="1711327879187" duration="4322000" />
+      <workItem from="1711332218145" duration="3590000" />
+      <workItem from="1711337262363" duration="352000" />
+      <workItem from="1711337620321" duration="951000" />
+      <workItem from="1711338578747" duration="25000" />
+      <workItem from="1711338689145" duration="1192000" />
+      <workItem from="1711339888030" duration="298000" />
+      <workItem from="1711340190623" duration="7419000" />
+      <workItem from="1711347903309" duration="760000" />
+      <workItem from="1711348670062" duration="1879000" />
+      <workItem from="1711350560659" duration="1094000" />
+      <workItem from="1711351662731" duration="1107000" />
+      <workItem from="1711352776802" duration="17918000" />
+      <workItem from="1711396724045" duration="291000" />
+      <workItem from="1711397019942" duration="775000" />
+      <workItem from="1711397802300" duration="207000" />
+      <workItem from="1711398014560" duration="2810000" />
+      <workItem from="1711408940391" duration="8864000" />
+      <workItem from="1711473178036" duration="34870000" />
+      <workItem from="1711517181060" duration="13426000" />
+      <workItem from="1711565026717" duration="8433000" />
+      <workItem from="1711578027925" duration="232000" />
+      <workItem from="1711578321923" duration="15865000" />
+      <workItem from="1711596343710" duration="6672000" />
+      <workItem from="1711603039474" duration="323000" />
+      <workItem from="1711603405892" duration="342000" />
+      <workItem from="1711604663820" duration="772000" />
+      <workItem from="1711605511240" duration="2011000" />
+      <workItem from="1711607819432" duration="176000" />
+      <workItem from="1711608004034" duration="437000" />
+      <workItem from="1711608450680" duration="598000" />
+      <workItem from="1711609460443" duration="883000" />
+      <workItem from="1711610352240" duration="163000" />
+      <workItem from="1711610522463" duration="5618000" />
+    </task>
+    <task id="LOCAL-00001" summary="The score appium kotlin automation.">
+      <option name="closed" value="true" />
+      <created>1711616321008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711616321008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The score appium kotlin automation." />
+    <option name="LAST_COMMIT_MESSAGE" value="The score appium kotlin automation." />
+  </component>
+</project>
