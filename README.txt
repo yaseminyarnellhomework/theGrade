@@ -1,3 +1,7 @@
+Hi this is an Android Appium Kotlin automation I created just my profile, the projects, which I worked on my professional life is alot complex than this one.
+
+
+
 Appium setup
 
 Download idk from oracle.
